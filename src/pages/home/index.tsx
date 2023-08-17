@@ -1,5 +1,3 @@
-import "virtual:windi.css";
-
 function Home() {
   return (
     <div className="bg-zinc-100 w-1/2 text-center h-1/2">
