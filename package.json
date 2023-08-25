@@ -12,10 +12,10 @@
     "build:basic": "pnpm -C packages/basic run build",
     "build:deer": "pnpm -C packages/deer run build",
     "build:demo": "pnpm -C packages/demo run build",
-    "preview:admin": "pnpm -C packages/admin --stream run serve",
-    "preview:basic": "pnpm -C packages/basic --stream run serve",
-    "preview:deer": "pnpm -C packages/deer --stream run serve",
-    "preview:demo": "pnpm -C packages/demo --stream run serve"
+    "preview:admin": "pnpm -C packages/admin --stream run preview",
+    "preview:basic": "pnpm -C packages/basic --stream run preview",
+    "preview:deer": "pnpm -C packages/deer --stream run preview",
+    "preview:demo": "pnpm -C packages/demo --stream run preview"
   },
   "dependencies": {
   },
